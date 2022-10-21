@@ -1,4 +1,3 @@
-
 # LHML
 
 Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks
@@ -40,7 +39,7 @@ Refer to graph_partition.py for graph partition.
 
 We follow and reuse some works as described in our paper and code.
 
-When training a new dataset, adjusting the initial value of the reference radius(ref_radius) is helpful for model training.
+When training a new dataset, adjusting the initial value of the reference radius(ref_radius) is helpful.
 
 ## Cite us
 
